@@ -14,7 +14,7 @@ all assertion check if method return only even numbers list
 
 All test were run with range(0-1000) and returned 10 element list (to easy debug etc.)
 #### To run:
-#####the use of a virtual environment is recommended (virtualvenv etc.)
+##### the use of a virtual environment is recommended (virtualvenv etc.)
 1. install latest pip package
 2. invoke in cmd: pip install -r requierements.txt
 3. run pytest by `python -m pytest` inside project directory
